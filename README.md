@@ -1,4 +1,4 @@
-# AqualQ - Water Quality Prediction System
+# AquaQ - Water Quality Prediction System
 
 ## 📌 Project Overview
 AqualQ is an advanced water quality prediction system designed to analyze and forecast critical water parameters such as **dissolved oxygen, turbidity, temperature, and pH levels**. The project leverages **Google Earth Engine API**, **machine learning models**, and an interactive dashboard to provide real-time insights into water quality.
