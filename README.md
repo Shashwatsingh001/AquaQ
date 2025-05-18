@@ -1,7 +1,7 @@
 # AquaQ - Water Quality Prediction System
 
 ## 📌 Project Overview
-AqualQ is an advanced water quality prediction system designed to analyze and forecast critical water parameters such as **dissolved oxygen, turbidity, temperature, and pH levels**. The project leverages **Google Earth Engine API**, **machine learning models**, and an interactive dashboard to provide real-time insights into water quality.
+AquaQ is an advanced water quality prediction system designed to analyze and forecast critical water parameters such as **dissolved oxygen, turbidity, temperature, and pH levels**. The project leverages **Google Earth Engine API**, **machine learning models**, and an interactive dashboard to provide real-time insights into water quality.
 
 ## 🚀 Features
 - **Data Collection**: Utilizes **Google Earth Engine API** to fetch standardized satellite and historical water quality data.
@@ -18,7 +18,7 @@ AqualQ is an advanced water quality prediction system designed to analyze and fo
 
 ## 📂 Project Structure
 ```
-AqualQ/src
+AquaQ/src
 │-- data/                   # Raw and processed datasets
 │-- savedmodels/                 # Trained ML models
 │-- satellitefunction/              # Jupyter notebooks for data analysis
@@ -36,8 +36,8 @@ AqualQ/src
 ### Installation
 ```sh
 # Clone the repository
-git clone https://github.com/YeliwZinn/AqualQ.git
-cd AqualQ
+git clone https://github.com/YeliwZinn/AquaQ.git
+cd AquaQ
 
 # Install dependencies
 pip install -r requirements.txt
@@ -55,7 +55,7 @@ python models/train_model.py
 ```
 
 ## 📈 Results
-AqualQ achieves high accuracy in predicting dissolved oxygen levels and other water parameters, demonstrating how AI can assist in sustainable environmental monitoring.
+AquaQ achieves high accuracy in predicting dissolved oxygen levels and other water parameters, demonstrating how AI can assist in sustainable environmental monitoring.
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
